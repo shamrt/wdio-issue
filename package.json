@@ -1,0 +1,19 @@
+{
+  "name": "wdio-issue",
+  "version": "0.1.0",
+  "scripts": {},
+  "license": "UNLICENSED",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chromedriver": "^2.25.1",
+    "gulp": "^3.9.1",
+    "gulp-webdriver": "^2.0.3",
+    "wdio": "^0.3.3",
+    "wdio-dot-reporter": "0.0.6",
+    "wdio-mocha-framework": "^0.5.8",
+    "wdio-selenium-standalone-service": "0.0.7",
+    "wdio-spec-reporter": "0.0.5",
+    "wdio-static-server-service": "^1.0.1"
+  }
+}
